@@ -3,6 +3,8 @@ package com.tutorials;
 public class Pgm1 {
 
 	public static void main(String[] args) {
+
+		System.out.println("edited");
 		
 		someMethod(null);
 		
